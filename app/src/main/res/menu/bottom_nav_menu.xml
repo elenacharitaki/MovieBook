@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/moviesWatched"
+        android:title="Έχουν προβληθεί"
+        android:icon="@drawable/icon_movies_watched"
+        />
+    <item
+        android:id="@+id/watchlist"
+        android:title="Watchlist"
+        android:icon="@drawable/icon_watchlist" />
+    <item
+        android:id="@+id/categoryList"
+        android:title="Κατηγορίες"
+        android:icon="@drawable/icon_category_list" />
+</menu>

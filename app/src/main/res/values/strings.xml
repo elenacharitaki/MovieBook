@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MovieBook</string>
+    <string name="plus_button">Add new</string>
+    <string name="title">Τίτλος</string>
+    <string name="comments">Σχόλια:</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="watchlist">Στη λίστα</string>
+    <string name="watched">Προβλήθηκε</string>
+    <string name="rating_bar">Βαθμολογία:</string>
+    <string name="watched_at">Προβλήθηκε στις:</string>
+    <string name="category">Κατηγορία:</string>
+    <string name="categories">Κατηγορίες:</string>
+    <string name="rate">Βαθμολογία:</string>
+    <string name="yes">Ναι</string>
+    <string name="no">Όχι</string>
+    <string name="category1">Κατηγορία 1:</string>
+    <string name="category2">Κατηγορία 2:</string>
+    <string name="category3">Κατηγορία 3:</string>
+    <string name="select_category">Επιλέξτε κατηγορία...</string>
+</resources>

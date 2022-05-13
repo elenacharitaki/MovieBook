@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Datalabs Student/Desktop/MovieNotes/app/src/main/res/layout/activity_add_new_movie.xml" value="0.25" />
+        <entry key="..\:/Users/Datalabs Student/Desktop/MovieNotes/app/src/main/res/layout/activity_edit_movie.xml" value="0.25" />
+        <entry key="..\:/Users/Datalabs Student/Desktop/MovieNotes/app/src/main/res/layout/activity_movie.xml" value="0.25" />
+        <entry key="..\:/Users/Datalabs Student/Desktop/MovieNotes/app/src/main/res/layout/activity_show_movie.xml" value="0.22" />
+        <entry key="..\:/Users/Datalabs Student/Desktop/MovieNotes/app/src/main/res/layout/category_spinner_item.xml" value="0.25" />
+        <entry key="..\:/Users/Datalabs Student/Desktop/MovieNotes/app/src/main/res/layout/date_picker_alert_dialog.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MovieNotes/app/src/main/res/drawable/icon_watchlist.xml" value="0.2265" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MovieNotes/app/src/main/res/drawable/icon_watclist.xml" value="0.2265" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MovieNotes/app/src/main/res/layout/activity_add_new_movie.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MovieNotes/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MovieNotes/app/src/main/res/layout/activity_movie.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MovieNotes/app/src/main/res/layout/fragment_category_list.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MovieNotes/app/src/main/res/layout/fragment_movies_watched.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MovieNotes/app/src/main/res/layout/fragment_test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MovieNotes/app/src/main/res/layout/fragment_watchlist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MovieNotes/app/src/main/res/layout/movie_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MovieNotes/app/src/main/res/layout/movies_watched_movie_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MovieNotes/app/src/main/res/layout/watchlist_movie_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MovieNotes/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MovieNotes/app/src/main/res/mipmap-anydpi-v26/ic_category_list.xml" value="0.2265" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.192" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/drawable/icon_movies_watched.xml" value="0.192" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/drawable/icon_star_rate.xml" value="0.192" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/drawable/icon_watchlist.xml" value="0.192" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/drawable/spinner_style.xml" value="0.2265" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/activity_add_new_movie.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/activity_edit_movie.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/activity_movie.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/activity_show_category_movies.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/activity_show_movie.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/activity_show_movies.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/category_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/category_spinner_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/date_picker_alert_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/fragment_category_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/fragment_movies_watched.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/fragment_watchlist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/spinner_on_nothing_selected_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/watched_movie_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/layout/watchlist_movie_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/MovieNotes/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
